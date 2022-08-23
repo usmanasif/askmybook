@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App component 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <img
+      alt="logo"
+      class="book"
+      src="book.png"
+    />
+    <h1
+      class="title"
+    >
+      Ask My Book
+    </h1>
+    <p
+      class="credits"
+    >
+      This is an experiment in using AI to make my book's content more accessible. Ask a question and AI will answer it in real-time:
+    </p>
+    <textarea
+      class="question"
+      placeholder="Ask a question"
+      rows="4"
+    >
+      hello
+    </textarea>
+    <div
+      class="buttons"
+    >
+      <button
+        class="false"
+      >
+        Ask question
+      </button>
+      <button
+        class="lucky"
+      >
+        I'm feeling lucky
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`App component renders initial component 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <img
+      alt="logo"
+      class="book"
+      src="book.png"
+    />
+    <h1
+      class="title"
+    >
+      Ask My Book
+    </h1>
+    <p
+      class="credits"
+    >
+      This is an experiment in using AI to make my book's content more accessible. Ask a question and AI will answer it in real-time:
+    </p>
+    <textarea
+      class="question"
+      placeholder="Ask a question"
+      rows="4"
+    >
+      hello
+    </textarea>
+    <div
+      class="buttons"
+    >
+      <button
+        class="false"
+      >
+        Ask question
+      </button>
+      <button
+        class="lucky"
+      >
+        I'm feeling lucky
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
